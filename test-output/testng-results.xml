@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-24T18:28:18 IST" name="Default suite" finished-at="2021-09-24T18:29:12 IST" duration-ms="54011">
+    <groups>
+    </groups>
+    <test started-at="2021-09-24T18:28:18 IST" name="Default test" finished-at="2021-09-24T18:29:12 IST" duration-ms="54011">
+      <class name="com.mindtree.runner.LogOut">
+        <test-method is-config="true" signature="testing()[pri:0, instance:com.mindtree.runner.LogOut@486be205]" started-at="2021-09-24T18:28:18 IST" name="testing" finished-at="2021-09-24T18:28:23 IST" duration-ms="4813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+        <test-method signature="LogOutRun()[pri:0, instance:com.mindtree.runner.LogOut@486be205]" started-at="2021-09-24T18:28:23 IST" name="LogOutRun" finished-at="2021-09-24T18:29:06 IST" duration-ms="43107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOutRun -->
+        <test-method is-config="true" signature="clean()[pri:0, instance:com.mindtree.runner.LogOut@486be205]" started-at="2021-09-24T18:29:06 IST" name="clean" finished-at="2021-09-24T18:29:12 IST" duration-ms="5966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clean -->
+      </class> <!-- com.mindtree.runner.LogOut -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

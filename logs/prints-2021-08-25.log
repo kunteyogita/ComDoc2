@@ -1,0 +1,7 @@
+18:08:00.901 [main] INFO  com.mindtree.runner.TestRunner - Title matched
+18:08:00.907 [main] ERROR com.mindtree.runner.TestRunner - Title Matched
+18:08:03.093 [main] INFO  com.mindtree.runner.TestRunner - Clicked on searchbox
+18:08:06.375 [main] INFO  com.mindtree.runner.TestRunner - Title matched
+18:08:06.375 [main] ERROR com.mindtree.runner.TestRunner - Title Matched
+18:08:07.771 [main] INFO  com.mindtree.runner.TestRunner - Clicked on searchbox
+18:08:10.715 [main] INFO  com.mindtree.runner.TestRunner - Title matched
